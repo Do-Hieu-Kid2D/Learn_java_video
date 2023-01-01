@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Hello {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+         int a=4;
+         int b=88;
+         
+         System.out.println("-a =  " + (-a));
+         System.out.println("+a = " + (+a));
+         int sum = a+b;
+         System.out.println("Sum= "+ (int)(b+a));
+         System.out.println("Sum= "+ sum);
+         
+         boolean flag =false;
+         System.out.println("flag= "+ !flag);
+         
+         String kq = (a%2==0)?"So Chan":"So Le";
+         System.out.println(a +" la "+kq);
+        
+	}
+}
