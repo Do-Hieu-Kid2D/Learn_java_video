@@ -3,5 +3,14 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.math.MathContext"/>
     <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="practiceOPP.HoaDonCoffee"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="MyDate"/>
+    <fullyQualifiedTypeName name="toStringJava.MyDate"/>
+    <fullyQualifiedTypeName name="opp_sach.Ngay"/>
+    <fullyQualifiedTypeName name="opp_sach.Tacgia"/>
+    <fullyQualifiedTypeName name="opp_sach.Sach"/>
+    <fullyQualifiedTypeName name="HangSanXuat"/>
+    <fullyQualifiedTypeName name="Ngay"/>
+    <fullyQualifiedTypeName name="Phim"/>
 </qualifiedTypeNameHistroy>
